@@ -5,7 +5,6 @@ categories:
   - 구성
 tags:
   - Git
-excerpt_separator:  <!--more-->
 ---
 
 # Minimal_Git_command
