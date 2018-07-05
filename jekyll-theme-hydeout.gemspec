@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hydeout"
   spec.version       = "3.7.0"
-  spec.authors       = ["Andrew Fong"]
-  spec.email         = ["id@andrewfong.com"]
+  spec.authors       = ["zero gwon"]
+  spec.email         = ["zero@gmail"]
 
   spec.summary       = %q{정리를 위한 깃허브 블로그}
-  spec.homepage      = "https://github.com/fongandrew/hydeout"
+  spec.homepage      = "https://greygwon.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
