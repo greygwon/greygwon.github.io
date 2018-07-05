@@ -7,7 +7,7 @@ tags:
   - Git
 ---
 
-# Minimal_Git_command
+# Git 명령어 정리
 
 Git 을 사용하면서 자주 사용하는 명령어들에 대해 정리한 repository 입니다.
 
