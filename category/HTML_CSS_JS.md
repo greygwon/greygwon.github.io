@@ -1,28 +1,7 @@
 ---
 layout: category
 title: HTML/CSS/JS
+category: web
 ---
 
-
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
-
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+프론트엔드 개발자는 쉽게 말해 유저들에게 보여지는 화면을 만드는 일을 담당하는 사람이다. 웹 프로그래밍을 건물을 만드는 걸로 비유하자면 건물의 외관을 디자인하는 사람이라고 할 수 있다.
