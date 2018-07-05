@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["zero gwon"]
   spec.email         = ["zero@gmail"]
 
-  spec.summary       = %q{정리를 위한 깃허브 블로그}
+  spec.summary       = %q{정리를 위한 깃허브 블록}
   spec.homepage      = "https://greygwon.github.io"
   spec.license       = "MIT"
 
