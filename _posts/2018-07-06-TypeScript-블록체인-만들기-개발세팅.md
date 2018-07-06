@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TypeScript 블록체인 만들기: 개발세팅
+title: TypeScript 블록체인 만들기; 개발세팅
 categories:
   - js
 tags:
@@ -16,6 +16,7 @@ yarn add global typescript // 글로벌
 yarn add tsc-watch --dev // 개발용
 
 ```
+
 
 ## 2. 설정파일 작성
 
@@ -38,6 +39,7 @@ yarn add tsc-watch --dev // 개발용
 }
 ```
 
+
 ### package.json 파일
 
 ```json
@@ -54,11 +56,13 @@ yarn add tsc-watch --dev // 개발용
 }
 ```
 
+
 ### 폴더 구조 설정
 
 ![폴더구조](https://user-images.githubusercontent.com/36188268/42355508-69c63b8a-8108-11e8-9040-af8a897aecde.png)
 
 ![](https://user-images.githubusercontent.com/36188268/42355825-0f38742e-810a-11e8-8fc6-c40e756a153a.png)
+
 
 ## 3. 테스트 코드
 
@@ -68,7 +72,3 @@ console.log("Hello, Good!!!");
 export {};
 
 ```
-
-[](![](
-
-))
