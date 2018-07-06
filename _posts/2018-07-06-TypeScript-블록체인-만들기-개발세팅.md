@@ -16,6 +16,7 @@ yarn add global typescript // 글로벌
 yarn add tsc-watch --dev // 개발용
 ```  
   
+  
 ### 2. 설정파일 작성
 
 ##### tsconfig.json 파일
@@ -57,9 +58,9 @@ yarn add tsc-watch --dev // 개발용
   
 ##### 폴더 구조 설정
 
-![폴더구조](https://user-images.githubusercontent.com/36188268/42355508-69c63b8a-8108-11e8-9040-af8a897aecde.png)
+![폴더구조](https://user-images.githubusercontent.com/36188268/42356431-666fc91a-810d-11e8-8c24-96953003a1bc.png)
 
-![](https://user-images.githubusercontent.com/36188268/42355825-0f38742e-810a-11e8-8fc6-c40e756a153a.png)  
+![](https://user-images.githubusercontent.com/36188268/42356432-67ba1bb8-810d-11e8-8613-0f1c6f449ce0.png)  
   
   
   
