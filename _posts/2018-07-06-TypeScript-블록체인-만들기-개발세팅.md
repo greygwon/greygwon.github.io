@@ -14,7 +14,6 @@ excerpt_separator:  <!--more-->
 ```zsh
 yarn add global typescript // 글로벌
 yarn add tsc-watch --dev // 개발용
-
 ```
 
 
@@ -70,5 +69,4 @@ yarn add tsc-watch --dev // 개발용
 console.log("Hello, Good!!!");
 
 export {};
-
 ```
