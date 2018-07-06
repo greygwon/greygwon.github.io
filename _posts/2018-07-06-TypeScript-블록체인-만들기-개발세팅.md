@@ -14,7 +14,7 @@ excerpt_separator:  <!--more-->
 ```zsh
 yarn add global typescript // 글로벌
 yarn add tsc-watch --dev // 개발용
-```
+```  
   
 ## 2. 설정파일 작성
 
