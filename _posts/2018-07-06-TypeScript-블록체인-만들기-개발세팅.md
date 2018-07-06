@@ -6,6 +6,8 @@ categories:
 tags:
   - TypeScript
   - JavaScript
+excerpt_separator:  <!--more-->
+
 ---
 
 ## 1. typescript 및 tsc-watch 설치
