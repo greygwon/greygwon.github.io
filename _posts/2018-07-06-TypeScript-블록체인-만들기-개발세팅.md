@@ -61,8 +61,8 @@ yarn add tsc-watch --dev // 개발용
 ![폴더구조](https://user-images.githubusercontent.com/36188268/42356431-666fc91a-810d-11e8-8c24-96953003a1bc.png)
 
 ![](https://user-images.githubusercontent.com/36188268/42356432-67ba1bb8-810d-11e8-8613-0f1c6f449ce0.png)
-#
-#
+<br>
+<br>
 ### 3. 테스트 코드
 
 ```js
@@ -70,5 +70,5 @@ console.log("Hello, Good!!!");
 
 export {};
 ```
-\
-\
+<br>
+<br>
