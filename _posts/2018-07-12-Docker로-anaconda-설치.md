@@ -16,7 +16,7 @@ excerpt_separator:  <!--more-->
 ```sh
 docker search anaconda3
 ```
-continuumio/anaconda3 룰 선택.
+continuumio/anaconda3를 선택.
 <br>
 <br>
 
