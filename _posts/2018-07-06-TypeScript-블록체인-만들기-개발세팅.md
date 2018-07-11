@@ -19,7 +19,6 @@ yarn add tsc-watch --dev // 개발용
 &nbsp;
 ### 2. 설정파일 작성
 
-
 ##### tsconfig.json 파일
 
 ```json
